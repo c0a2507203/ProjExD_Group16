@@ -147,7 +147,7 @@ ENEMY_TYPES = [
         {"ja": "がらすのはし", "en": "GARASUNOHASI"},{"ja": "ごーるど", "en": "GOORUDO"},
         {"ja": "すたーぷらちな", "en": "SUTAAPURATINA"},{"ja": "ざわーるど", "en": "ZAWAARUDO"},
         {"ja": "だーすべいだー", "en": "DAASUBEIDAA"},{"ja": "とるーぱー", "en": "TORUUPAA"},
-        {"ja": "たつまき", "en": "TATSUMAKI"}, {"ja": "きんぐえんじん", "en": "KINGUENJIN"},{"ja": "もうちがう", "en": "MOUCHIGAU"}
+        {"ja": "たつまき", "en": "TATUMAKI"}, {"ja": "きんぐえんじん", "en": "KINGUENZIN"},{"ja": "もうちがう", "en": "MOUTIGAU"}
         
     ],
     # 種類 2: 【中目】6〜10文字
