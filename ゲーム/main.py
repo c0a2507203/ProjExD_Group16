@@ -139,7 +139,7 @@ ENEMY_TYPES = [
     # 種類 1: 【標準】5〜8文字
     [
         {"ja": "しびれる", "en": "SIBIRERU"},{"ja": "あこがれる", "en": "AKOGARERU"},
-        {"ja": "くろいせいし", "en": "KUROISEISI"},{"ja": "あります", "en": "ARIMASU"},
+        {"ja": "くろいせいし", "en": "KUROISEISI"}, {"ja": "あります", "en": "ARIMASU"},
         {"ja": "いやなよかん", "en": "IYANAYOKAN"},{"ja": "ふつうのぱんち", "en": "HUTUUNOPANTI"},
         {"ja": "れんぞく", "en": "RENZOKU"},{"ja": "まじなぐり", "en": "MAZINAGURI"},
         {"ja": "むきゅう", "en": "MUKYUU"},{"ja": "ぶいあいぴー", "en": "BUIAIPII"},
@@ -147,8 +147,8 @@ ENEMY_TYPES = [
         {"ja": "がらすのはし", "en": "GARASUNOHASI"},{"ja": "ごーるど", "en": "GOORUDO"},
         {"ja": "すたーぷらちな", "en": "SUTAAPURATINA"},{"ja": "ざわーるど", "en": "ZAWAARUDO"},
         {"ja": "だーすべいだー", "en": "DAASUBEIDAA"},{"ja": "とるーぱー", "en": "TORUUPAA"},
-        {"ja": "たつまき", "en": "TATUMAKI"},{"ja": "きんぐえんじん", "en": "KINGUENZIN"},
-        {"ja": "もうちがう", "en": "MOUTIGAU"}
+        {"ja": "たつまき", "en": "TATSUMAKI"}, {"ja": "きんぐえんじん", "en": "KINGUENJIN"},{"ja": "もうちがう", "en": "MOUCHIGAU"}
+        
     ],
     # 種類 2: 【中目】6〜10文字
     [
@@ -187,7 +187,7 @@ ENEMY_TYPES = [
         {"ja": "つよくなりすぎてしまった", "en": "TUYOKUNARISUGITESIMATTA"},{"ja": "きょうかい", "en": "KYOUKAI"},
         {"ja": "かいじんきょうかい", "en": "KAIZINKYOUKAI"},{"ja": "しゅじんこう", "en": "SYUZINKOU"},
         {"ja": "げーむをさせてくれ", "en": "GEEMUWOSASETEKURE"},{"ja": "おまえはただのうまだ", "en": "OMAEHATADANOUMADA"},
-        {"ja": "うらぎり", "en": "URAGIRI"},{"ja": "スイパラいこ", "en": "SUIPARAIKO"},
+        {"ja": "スイパラいこ", "en": "SUIPARAIKO"}, {"ja": "けもの", "en": "KEMONO"},{"ja": "はやしれいな", "en": "HAYASIREINA"},
         {"ja": "けもの", "en": "KEMONO"},{"ja": "はやしれいな", "en": "HAYASIREINA"},
         {"ja": "ささもとあきら", "en": "SASAMOTOAKIRA"},{"ja": "あまりろり", "en": "AMARIRORI"},
     ]
