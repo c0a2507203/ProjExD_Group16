@@ -644,8 +644,8 @@ while running:
                     gray_debris.extend([GrayDebris(locked_enemy["x"], locked_enemy["y"]) for _ in range(15)])
                     
                     shake_frames = 15 
-                    combo_count += 1
-                    score += 100 * combo_count
+                   
+                    
                         
                     enemies.remove(locked_enemy)
                     locked_enemy = None
